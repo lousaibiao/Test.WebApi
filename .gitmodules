@@ -1,3 +1,6 @@
 [submodule "TestBase"]
 	path = TestBase
 	url = https://github.com/lousaibiao/TestBase
+[submodule "TestBase2"]
+	path = TestBase2
+	url = https://github.com/lousaibiao/TestBase2
